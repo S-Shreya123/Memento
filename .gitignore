@@ -1,4 +1,17 @@
-.env.local
-node_modules
-dist
-src/convex/_generated
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Convex generated files
+src/convex/_generated/
+
+# Private keys
+*.pem
+*.key
