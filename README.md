@@ -5,7 +5,7 @@ Memento
 
 ## Overview
 
-[Project Name] is a multilingual web platform designed to support cognitive engagement and everyday assistance for elderly people living with dementia, with a particular focus on Northeast India.
+Memento is a multilingual web platform designed to support cognitive engagement and everyday assistance for elderly people living with dementia, with a particular focus on Northeast India.
 
 The platform uses caregiver-provided family photographs, relationships and personal memories to create familiar, personalized cognitive activities. It also offers daily reminders, performance-based difficulty adjustment and caregiver monitoring.
 
